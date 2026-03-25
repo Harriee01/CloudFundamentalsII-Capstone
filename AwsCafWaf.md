@@ -1,4 +1,4 @@
-# Design and Evaluate an AWS Solution Using the Well-Architected and Cloud Adoption Frameworks
+# Design and Evaluation of an AWS Solution Using the Well-Architected and Cloud Adoption Frameworks
 
 ## Introduction
 
